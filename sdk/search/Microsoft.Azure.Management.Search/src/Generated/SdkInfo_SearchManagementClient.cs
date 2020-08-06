@@ -35,7 +35,7 @@ namespace Microsoft.Azure.Management.Search
       public static readonly String AutoRestCmdExecuted = "cmd.exe /c autorest.cmd https://github.com/arv100kri/azure-rest-api-specs/blob/arv100kri/new-api-versions/specification/search/resource-manager/readme.md --csharp --version=v2 --reflect-api-versions --tag=package-2020-08 --csharp-sdks-folder=D:\\src\\azure-sdk-for-net\\sdk";
       public static readonly String GithubForkName = "arv100kri";
       public static readonly String GithubBranchName = "arv100kri/new-api-versions";
-      public static readonly String GithubCommidId = "0bd47d76a1767ce4f18b01bcde24acd891a8109e";
+      public static readonly String GithubCommidId = "f51ff8e177996106f81a3aee7f61c3405f2f1daf";
       public static readonly String CodeGenerationErrors = "";
       public static readonly String GithubRepoName = "azure-rest-api-specs";
       // END: Code Generation Metadata Section

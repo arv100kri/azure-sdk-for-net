@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Azure.Management.ResourceManager" Version="1.5.0-preview" />
+    <PackageReference Include="Microsoft.Azure.Management.KeyVault" Version="3.0.1" />
     <ProjectReference Include="..\src\Microsoft.Azure.Management.Search.csproj" />
   </ItemGroup>
   <ItemGroup>

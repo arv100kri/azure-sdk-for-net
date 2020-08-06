@@ -20,6 +20,11 @@ namespace Microsoft.Azure.Search.Tests.Utilities
             return TestUtilities.GenerateName(prefix: "azs-");
         }
 
+        public static string GenerateVaultName()
+        {
+            return TestUtilities.GenerateName(prefix: "azskv");
+        }
+
         public static string GenerateName()
         {
             return TestUtilities.GenerateName();
